@@ -1,56 +1,77 @@
-### Hi, I’m Sai Udayagiri (@saiudayagiri) 👋
+# Udayagiri Saibabu
+**Software Engineer** | Hyderabad, India | (Open to Relocation)  
+**Email:** saibabu.udayagiri@gmail.com | **Phone:** +91 9989255335 | **LinkedIn:** [saiudayagiri](https://www.linkedin.com/in/saiudayagiri)  
 
-- 👀 **I’m interested in:**  
-   Problem-solving, competitive programming, system design, and cutting-edge technologies like DevOps and cloud computing.
-   
-- 🌱 **I’m currently learning:**  
-   Advanced Data Structures & Algorithms, DevOps tools like Docker and Kubernetes, and enhancing my problem-solving skills through coding challenges.
-   
-- 💡 **Skills & Expertise:**  
-   - **Languages:** Python, Java, SQL  
-   - **Technologies:** Docker, Kubernetes, CI/CD Pipelines  
-   - **Algorithms & DSA:** Recursion, Dynamic Programming, Graphs, Backtracking, Trees  
-   - **Tools:** Git, GitHub, MySQL, IntelliJ IDEA, Visual Studio Code
+*Last Updated: September 22, 2025*
 
 ---
 
-### 👨‍💻 **Projects:**
 
-- **[Automated Sudoku Solver](https://github.com/saiudayagiri/sudoku-solver)**  
-  Developed a Python-based Sudoku solver using an optimized backtracking algorithm, with a user interface for puzzle input and real-time solutions.
 
-- **Chess Game**  
-  Built a fully functional chess game in Python with GUI, implementing legal move generation, game state tracking, and special moves like castling and en passant. It was developed using OOP principles, ensuring modular and maintainable code.
-
-- **Supercapacitor Research Project**  
-  Investigated the influence of phase and morphology of materials on supercapacitor applications. Contributed to material science research during my MS in Physics at Amrita University.
-
-- **Quantified Dust Particles using Paul Trap Technique**  
-  Researched and quantified dust particles using Paul Trap technique, which was part of an internship at NMAMIT, Karnataka. The project focused on studying matter properties at a granular level.
+## Relevant Courses
+- MIT 6.006: Introduction to Algorithms  
+- CS50: Introduction to Databases with SQL  
+- Stanford Java Programming  
 
 ---
 
-### 🎯 **Achievements:**
-
-- **Top 1%** on Leetcode globally in 2024, having solved over **700+ problems** covering arrays, strings, dynamic programming, graphs, and more.
-- **Winner** of the **Chekumukhi Science Test** and **four-time Inspire Award Scholar**.
-- Ranked in the **Top 12% globally** in Leetcode contests.
-- Former **captain of the Newton group** in the Science Club for four years.
-
----
-
-### 🤝 **Let’s Collaborate:**
-I’m looking to collaborate on **open-source projects**, contribute to **competitive programming communities**, and work on **innovative tech solutions**. If you're into building something cool or solving complex problems, let’s connect!
+## Achievements
+- **Selected as Google Summer of Code 2025 Contributor** with SymPy, one of 1,280 out of 23,559 applicants  
+- Ranked **164** out of 36,605 participants in LeetCode Weekly Contest 468 (2025)  
+- Ranked **1,508** out of 32,153 participants in LeetCode Weekly Contest 411 (2024)  
+- Ranked **4,356** out of 37,816 participants in LeetCode Biweekly Contest 133 (2024)  
+- Secured **State Rank 167** in CPGET Telangana (2021)  
+- **Published Research** in *Materials Chemistry and Physics* (Elsevier, 2025): *Beta-MnO₂ as a superior insertion cathode for high-energy aqueous Zn-ion storage applications*  
 
 ---
 
-### 📫 **How to Reach Me:**
-- **Email:** saibabu.udayagiri@gmail.com  
-- **LinkedIn:** [linkedin.com/in/sai-udayagiri](https://www.linkedin.com/in/sai-udayagiri/)  
-- **GitHub:** [github.com/saiudayagiri](https://github.com/saiudayagiri)  
-- **Leetcode:** [leetcode.com/sai_udayagiri](https://leetcode.com/sai_udayagiri/)
+## Experience and Projects
+
+### Google Summer of Code 2025 – Contributor, SymPy | Software Intern  
+**May 2025 – September 2025** | Remote, India  
+- 1,280 out of 23,559 applicants chosen to be a Google Summer of Code Contributor 2025.  
+- Designed and implemented comprehensive test suites for Beam and Structure2D modules, achieving **70% more edge-case coverage** through test-driven development.  
+- Resolved critical bugs and optimized core algorithms, improving result accuracy from **50% to 90%**.  
+- Developed new symbolic features and enhancements for structural mechanics, enabling **30% more complex problem solving** with over **6,000 lines of Python code**.  
+[Link: GSoC 2025 Project](https://summerofcode.withgoogle.com/archive/2025)  
+
+### Software Engineer | Bootcamps | Personal Projects  
+**January 2024 – December 2024** | Hyderabad, India  
+- Solved **1,000+ LeetCode challenges**, significantly boosting algorithmic problem-solving speed.  
+- Built a **Chess Game** in Python with a command-line interface and complete move validation logic.  
+
+### Open Source Contributor | GitHub  
+**2024 – 2025** | Remote  
+- Contributed to open-source projects by fixing bugs and refactoring core components to improve maintainability.  
+- Enhanced documentation and test coverage for community-driven Python libraries.  
+- Collaborated with global developers through GitHub, following best practices in version control and code reviews.  
 
 ---
 
-### ⚡ **Fun Fact:**
-I love applying algorithmic thinking to real-world problems and am fascinated by how technology can solve both daily and large-scale challenges!
+## Skills
+
+### Programming Languages
+- Java, Python, SQL  
+
+### Databases
+- SQL, MySQL, PostgreSQL, NoSQL, RDBMS, DBMS  
+
+### Web Technologies & Frameworks
+- HTML, CSS, JavaScript (basic)  
+
+### Version Control & Collaboration
+- Git, GitHub, GitHub Actions  
+
+### Software Development Concepts
+- Object-Oriented Programming (OOP), Test-Driven Development (TDD), Agile & Scrum exposure  
+
+### Data Structures & Algorithms
+- Arrays, Lists, Trees, Graphs, Heaps, Hash Maps, Dynamic Programming, Greedy Algorithms, Backtracking  
+
+---
+
+## Links
+- **Email:** [saibabu.udayagiri@gmail.com](mailto:saibabu.udayagiri@gmail.com)  
+- **LinkedIn:** [saiudayagiri](https://www.linkedin.com/in/saiudayagiri)  
+- **GitHub:** [saiudayagiri](https://github.com/saiudayagiri)  
+- **LeetCode:** [saiudayagiri](https://leetcode.com/saiudayagiri)
