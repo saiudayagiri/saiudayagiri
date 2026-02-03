@@ -10,9 +10,9 @@ Hyderabad, India • Open to Relocation
   <a href="mailto:saibabu.udayagiri@gmail.com">
     <img src="https://img.shields.io/badge/Email-saibabu.udayagiri%40gmail.com-D14836?logo=gmail&logoColor=white" />
   </a>
-  <a href="tel:+919989255335">
-    <img src="https://img.shields.io/badge/Phone-%2B91%209989255335-25D366?logo=whatsapp&logoColor=white" />
-  </a>
+  
+  <img src="https://img.shields.io/badge/Phone-%2B91%209989255335-25D366?logo=whatsapp&logoColor=white" />
+  
  
 </p>
 
