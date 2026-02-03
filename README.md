@@ -1,77 +1,170 @@
-# Udayagiri Saibabu
-**Software Engineer** | Hyderabad, India | (Open to Relocation)  
-**Email:** saibabu.udayagiri@gmail.com | **Phone:** +91 9989255335 | **LinkedIn:** [saiudayagiri](https://www.linkedin.com/in/saiudayagiri)  
+<div align="center">
 
-*Last Updated: September 22, 2025*
+# Udayagiri Saibabu
+
+**Software Engineer** | **Google Summer of Code 2025 Contributor (SymPy)**  
+Hyderabad, India • Open to Relocation  
+
+
+<p align="center">
+  <a href="mailto:saibabu.udayagiri@gmail.com">
+    <img src="https://img.shields.io/badge/Email-saibabu.udayagiri%40gmail.com-D14836?logo=gmail&logoColor=white" />
+  </a>
+  <a href="tel:+919989255335">
+    <img src="https://img.shields.io/badge/Phone-%2B91%209989255335-25D366?logo=whatsapp&logoColor=white" />
+  </a>
+ 
+</p>
+
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/saiudayagiri">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/saiudayagiri">
+    <img src="https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/saiudayagiri">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black" />
+  </a>
+</p>
+
+
+
+---
+### 🔗 Featured Work & Publications
+
+| Description | Link |
+|------------|------|
+| **Google Summer of Code 2025 – SymPy**<br/>Symbolic structural mechanics contributions. | <a href="https://summerofcode.withgoogle.com/archive/2025/projects/K6y23OZP"><img src="https://img.shields.io/badge/GSoC%202025-SymPy-4285F4?logo=google&logoColor=white" /></a> |
+| **TU Delft Thesis – Macaulay’s Method**<br/>Symbolic implementation for structural analysis. | <a href="https://oit.tudelft.nl/Macaulays-method/theses/sai.html"><img src="https://img.shields.io/badge/TU%20Delft-Thesis-00A6D6?logo=academia&logoColor=white" /></a> |
+| **Research Paper – Elsevier (2025)**<br/>Zn-ion battery cathode research. | <a href="https://www.sciencedirect.com/science/article/abs/pii/S0254058425001890?via%3Dihub"><img src="https://img.shields.io/badge/Elsevier-Research%20Paper-FF6F00?logo=readthedocs&logoColor=white" /></a> |
+
+
+---
+
+🎯 **Focus:** Algorithms • Symbolic Computation • Open Source • Python  
+🏆 **Highlights:** GSoC 2025 • 1000+ LeetCode • Elsevier Research Publication
+
+</div>
 
 ---
 
 
+---
 
-## Relevant Courses
+
+---
+
+<div align="center"> 
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+</div>
+
+---
+
+<h1 align="center">hey there 👋</h1>
+
+<h3 align="left">👩‍💻 About Me</h3>
+
+<p align="left">
+I'm Udayagiri Saibabu, a Software Engineer from Hyderabad, India, with a strong background in algorithms, symbolic computation, and open-source development.<br><br>
+
+- 🔭 Google Summer of Code 2025 Contributor at SymPy  
+- 🧠 Strong focus on Data Structures, Algorithms, and Mathematical Software  
+- 📚 Currently deepening expertise in software development, system design  
+- ⚡ In my free time, I solve algorithmic problems, contribute to open source, and build side projects
+</p>
+
+---
+
+<h3 align="left">🛠 Languages & Tools</h3>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
+</div>
+
+---
+
+<h3 align="left">🎓 Relevant Courses</h3>
+
 - MIT 6.006: Introduction to Algorithms  
 - CS50: Introduction to Databases with SQL  
 - Stanford Java Programming  
 
 ---
 
-## Achievements
-- **Selected as Google Summer of Code 2025 Contributor** with SymPy, one of 1,280 out of 23,559 applicants  
-- Ranked **164** out of 36,605 participants in LeetCode Weekly Contest 468 (2025)  
-- Ranked **1,508** out of 32,153 participants in LeetCode Weekly Contest 411 (2024)  
-- Ranked **4,356** out of 37,816 participants in LeetCode Biweekly Contest 133 (2024)  
-- Secured **State Rank 167** in CPGET Telangana (2021)  
-- **Published Research** in *Materials Chemistry and Physics* (Elsevier, 2025): *Beta-MnO₂ as a superior insertion cathode for high-energy aqueous Zn-ion storage applications*  
+<h3 align="left">🏆 Achievements</h3>
+
+- 🎯 Google Summer of Code 2025 Contributor with SymPy  
+- 🥇 Rank 164 in LeetCode Weekly Contest 468 (2025)  
+- 🥈 Rank 1,508 in LeetCode Weekly Contest 411 (2024)  
+- 📘 Published Research in *Materials Chemistry and Physics* (Elsevier, 2025)  
+- 🏅 State Rank 167 in CPGET Telangana (2021)  
 
 ---
 
-## Experience and Projects
+<h3 align="left">💼 Experience & Projects</h3>
 
-### Google Summer of Code 2025 – Contributor, SymPy | Software Intern  
-**May 2025 – September 2025** | Remote, India  
-- 1,280 out of 23,559 applicants chosen to be a Google Summer of Code Contributor 2025.  
-- Designed and implemented comprehensive test suites for Beam and Structure2D modules, achieving **70% more edge-case coverage** through test-driven development.  
-- Resolved critical bugs and optimized core algorithms, improving result accuracy from **50% to 90%**.  
-- Developed new symbolic features and enhancements for structural mechanics, enabling **30% more complex problem solving** with over **6,000 lines of Python code**.  
-[Link: GSoC 2025 Project](https://summerofcode.withgoogle.com/archive/2025)  
+**Google Summer of Code 2025 – Contributor, SymPy**  
+*May 2025 – Sep 2025 | Remote*  
+- Improved edge-case test coverage by **70%** using TDD  
+- Increased symbolic computation accuracy from **50% → 90%**  
+- Added **6000+ lines of Python code** for structural mechanics  
 
-### Software Engineer | Bootcamps | Personal Projects  
-**January 2024 – December 2024** | Hyderabad, India  
-- Solved **1,000+ LeetCode challenges**, significantly boosting algorithmic problem-solving speed.  
-- Built a **Chess Game** in Python with a command-line interface and complete move validation logic.  
+**Open Source Mentor – Newton School**  
+*Sep 2025 – Present | Remote*  
+- Built and scaled an Activity Tracker for open-source contributions  
+- Guided students to improve PR quality and best practices
+- Reviewed PR's
 
-### Open Source Contributor | GitHub  
-**2024 – 2025** | Remote  
-- Contributed to open-source projects by fixing bugs and refactoring core components to improve maintainability.  
-- Enhanced documentation and test coverage for community-driven Python libraries.  
-- Collaborated with global developers through GitHub, following best practices in version control and code reviews.  
+**Personal Projects**  
+- Solved **1000+ LeetCode problems**    
 
 ---
 
-## Skills
+<h3 align="left">🔥 GitHub Stats</h3>
 
-### Programming Languages
-- Java, Python, SQL  
+<div align="center">
 
-### Databases
-- SQL, MySQL, PostgreSQL, NoSQL, RDBMS, DBMS  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saiudayagiri&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=saiudayagiri&theme=tokyonight)
 
-### Web Technologies & Frameworks
-- HTML, CSS, JavaScript (basic)  
-
-### Version Control & Collaboration
-- Git, GitHub, GitHub Actions  
-
-### Software Development Concepts
-- Object-Oriented Programming (OOP), Test-Driven Development (TDD), Agile & Scrum exposure  
-
-### Data Structures & Algorithms
-- Arrays, Lists, Trees, Graphs, Heaps, Hash Maps, Dynamic Programming, Greedy Algorithms, Backtracking  
+</div>
 
 ---
 
-## Links
-- **Email:** [saibabu.udayagiri@gmail.com](mailto:saibabu.udayagiri@gmail.com)  
-- **LinkedIn:** [saiudayagiri](https://www.linkedin.com/in/saiudayagiri)  
-- **GitHub:** [saiudayagiri](https://github.com/saiudayagiri)  
-- **LeetCode:** [saiudayagiri](https://leetcode.com/saiudayagiri)
+<h3 align="left">📊 Top Languages</h3>
+
+<div align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saiudayagiri&layout=compact&theme=tokyonight)
+
+</div>
+
+---
+
+<h3 align="left">📈 Contribution Graph</h3>
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=saiudayagiri&theme=tokyo-night)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="25"/>
+  <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&color=000000&logoColor=white&style=for-the-badge" height="25"/>
+  <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&color=FFA116&logoColor=black&style=for-the-badge" height="25"/>
+</div>
