@@ -1,3 +1,16 @@
+<!-- ================= OPTION 1: Typing SVG (RECOMMENDED) ================= -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=750&lines=Udayagiri+Saibabu;Software+Engineer;GSoC+2025+Contributor+%7C+SymPy;Open+Source+%7C+Algorithms+%7C+Python" />
+</div>
+
+---
+
+<div align="center"> 
+  <img height="280" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+</div>
+
+---
+
 <div align="center">
 
 # Udayagiri Saibabu
@@ -5,17 +18,13 @@
 **Software Engineer** | **Google Summer of Code 2025 Contributor (SymPy)**  
 Hyderabad, India • Open to Relocation  
 
-
 <p align="center">
   <a href="mailto:saibabu.udayagiri@gmail.com">
     <img src="https://img.shields.io/badge/Email-saibabu.udayagiri%40gmail.com-D14836?logo=gmail&logoColor=white" />
   </a>
-  
-  <img src="https://img.shields.io/badge/Phone-%2B91%209989255335-25D366?logo=whatsapp&logoColor=white" />
-  
- 
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/WhatsApp-%2B91%209989255335-25D366?logo=whatsapp&logoColor=white" />
 </p>
-
 
 <p align="center">
   <a href="https://www.linkedin.com/in/saiudayagiri">
@@ -29,142 +38,135 @@ Hyderabad, India • Open to Relocation
   </a>
 </p>
 
-
-
----
-### 🔗 Featured Work & Publications
-
-| Description | Link |
-|------------|------|
-| **Google Summer of Code 2025 – SymPy**<br/>Symbolic structural mechanics contributions. | <a href="https://summerofcode.withgoogle.com/archive/2025/projects/K6y23OZP"><img src="https://img.shields.io/badge/GSoC%202025-SymPy-4285F4?logo=google&logoColor=white" /></a> |
-| **TU Delft Thesis – Macaulay’s Method**<br/>Symbolic implementation for structural analysis. | <a href="https://oit.tudelft.nl/Macaulays-method/theses/sai.html"><img src="https://img.shields.io/badge/TU%20Delft-Thesis-00A6D6?logo=academia&logoColor=white" /></a> |
-| **Research Paper – Elsevier (2025)**<br/>Zn-ion battery cathode research. | <a href="https://www.sciencedirect.com/science/article/abs/pii/S0254058425001890?via%3Dihub"><img src="https://img.shields.io/badge/Elsevier-Research%20Paper-FF6F00?logo=readthedocs&logoColor=white" /></a> |
-
-
----
-
-🎯 **Focus:** Algorithms • Symbolic Computation • Open Source • Python  
-🏆 **Highlights:** GSoC 2025 • 1000+ LeetCode • Elsevier Research Publication
-
 </div>
 
 ---
 
+<h3>🔗 Featured Work & Publications</h3>
+
+<table>
+  <tr>
+    <th align="left">Description</th>
+    <th align="center">Link</th>
+  </tr>
+  <tr>
+    <td style="background-color:#f1f8ff;">
+      <b>Google Summer of Code 2025 – SymPy</b><br/>
+      Symbolic structural mechanics contributions.
+    </td>
+    <td align="center">
+      <a href="https://summerofcode.withgoogle.com/archive/2025/projects/K6y23OZP">
+        <img src="https://img.shields.io/badge/GSoC%202025-SymPy-4285F4?logo=google&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td style="background-color:#f0fdf4;">
+      <b>TU Delft Thesis – Macaulay’s Method</b><br/>
+      Symbolic implementation for structural analysis.
+    </td>
+    <td align="center">
+      <a href="https://oit.tudelft.nl/Macaulays-method/theses/sai.html">
+        <img src="https://img.shields.io/badge/TU%20Delft-Thesis-00A6D6?logo=academia&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td style="background-color:#fff7ed;">
+      <b>Research Paper – Elsevier (2025)</b><br/>
+      Zn-ion battery cathode research.
+    </td>
+    <td align="center">
+      <a href="https://www.sciencedirect.com/science/article/abs/pii/S0254058425001890">
+        <img src="https://img.shields.io/badge/Elsevier-Research%20Paper-FF6F00?logo=readthedocs&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
-
-
----
-
-<div align="center"> 
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
-</div>
-
----
-
-<h1 align="center">hey there 👋</h1>
-
 <h3 align="left">👩‍💻 About Me</h3>
 
 <p align="left">
-I'm Udayagiri Saibabu, a Software Engineer from Hyderabad, India, with a strong background in algorithms, symbolic computation, and open-source development.<br><br>
-
-- 🔭 Google Summer of Code 2025 Contributor at SymPy  
-- 🧠 Strong focus on Data Structures, Algorithms, and Mathematical Software  
-- 📚 Currently deepening expertise in software development, system design  
-- ⚡ In my free time, I solve algorithmic problems, contribute to open source, and build side projects
+I'm Udayagiri Saibabu, a Software Engineer from Hyderabad, India, focused on algorithms, symbolic computation, and open-source development.
 </p>
 
----
-
-<h3 align="left">🛠 Languages & Tools</h3>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=130&text=GSoC%202025%20Contributor%20%7C%20SymPy&fontSize=30" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2F80ED,100:56CCF2&height=130&text=Open%20Source%20Mentor%20%7C%20NST&fontSize=30" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,100:374151&height=130&text=1000%2B%20LeetCode%20Problems%20Solved&fontSize=30" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F766E,100:115E59&height=130&text=Data%20Structures%20%7C%20Algorithms%20%7C%20Python&fontSize=30" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:5B21B6&height=130&text=Symbolic%20Computation%20%26%20Mathematical%20Software&fontSize=30" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6F00,100:FF8F00&height=130&text=Open%20Source%20Contributor%20%7C%20Problem%20Solver&fontSize=30" />
 </div>
 
+<p align="left">
+I build strong fundamentals in data structures and algorithms, apply them to symbolic and mathematical software, and actively contribute to open-source projects through development and mentoring.
+</p>
+
+<ul>
+  <li><b>Core Focus:</b> Data Structures, Algorithms, Symbolic & Mathematical Software</li>
+  <li><b>Currently Exploring:</b> Software engineering best practices and system design</li>
+  <li><b>Outside Work:</b> Competitive programming, open-source contributions, and side projects</li>
+</ul>
+
 ---
 
-<h3 align="left">🎓 Relevant Courses</h3>
+<h3 align="left">🛠 Skills</h3>
 
-- MIT 6.006: Introduction to Algorithms  
-- CS50: Introduction to Databases with SQL  
-- Stanford Java Programming  
+<b>Programming Languages</b>  
+- Java, Python, SQL  
+
+<b>Databases</b>  
+- MySQL, PostgreSQL, SQL, NoSQL  
+- RDBMS, DBMS  
+
+<b>Web Technologies</b>  
+- HTML, CSS, JavaScript (basic)  
+
+<b>Version Control & Collaboration</b>  
+- Git, GitHub, GitHub Actions  
+
+<b>Software Development Concepts</b>  
+- Object-Oriented Programming (OOP)  
+- Test-Driven Development (TDD)  
+- Agile & Scrum (exposure)  
+
+<b>Data Structures & Algorithms</b>  
+- Arrays, Linked Lists, Trees, Graphs  
+- Heaps, Hash Maps  
+- Dynamic Programming, Greedy Algorithms, Backtracking  
 
 ---
 
 <h3 align="left">🏆 Achievements</h3>
 
-- 🎯 Google Summer of Code 2025 Contributor with SymPy  
-- 🥇 Rank 164 in LeetCode Weekly Contest 468 (2025)  
-- 🥈 Rank 1,508 in LeetCode Weekly Contest 411 (2024)  
-- 📘 Published Research in *Materials Chemistry and Physics* (Elsevier, 2025)  
-- 🏅 State Rank 167 in CPGET Telangana (2021)  
+- **Google Summer of Code 2025 Contributor** — SymPy  
+  *(Selected among ~23,500 applicants)*  
+
+- **LeetCode Weekly Contest Rank 164** (2025)  
+  *(36,605 participants)*  
+
+- **LeetCode Weekly Contest Rank 1,508** (2024)  
+  *(32,153 participants)*  
+
+- **LeetCode Biweekly Contest Rank 4,356** (2024)  
+  *(37,816 participants)*  
+
+- **State Rank 167** — CPGET Telangana (2021)  
+
+- **Research Publication (Elsevier, 2025)**  
+  *Materials Chemistry and Physics* —  
+  *Beta-MnO₂ as a superior insertion cathode for high-energy aqueous Zn-ion storage applications*  
+
 
 ---
 
-<h3 align="left">💼 Experience & Projects</h3>
-
-**Google Summer of Code 2025 – Contributor, SymPy**  
-*May 2025 – Sep 2025 | Remote*  
-- Improved edge-case test coverage by **70%** using TDD  
-- Increased symbolic computation accuracy from **50% → 90%**  
-- Added **6000+ lines of Python code** for structural mechanics  
-
-**Open Source Mentor – Newton School**  
-*Sep 2025 – Present | Remote*  
-- Built and scaled an Activity Tracker for open-source contributions  
-- Guided students to improve PR quality and best practices
-- Reviewed PR's
-
-**Personal Projects**  
-- Solved **1000+ LeetCode problems**    
-
----
-
-<h3 align="left">🔥 GitHub Stats</h3>
+<h3 align="left">📈 Contribution Activity</h3>
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saiudayagiri&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=saiudayagiri&theme=tokyonight)
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saiudayagiri&theme=tokyo-night" />
 </div>
 
 ---
 
-<h3 align="left">📊 Top Languages</h3>
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saiudayagiri&layout=compact&theme=tokyonight)
-
-</div>
-
----
-
-<h3 align="left">📈 Contribution Graph</h3>
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=saiudayagiri&theme=tokyo-night)
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="25"/>
-  <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&color=000000&logoColor=white&style=for-the-badge" height="25"/>
-  <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&color=FFA116&logoColor=black&style=for-the-badge" height="25"/>
-</div>
