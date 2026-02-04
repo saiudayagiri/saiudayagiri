@@ -1,7 +1,9 @@
 <!-- ================= LEARNING JOURNEY ================= -->
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=130&text=Scrimba&fontSize=30" />
+ <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=130&text=Interactive%20Learning%20%7C%20Scrimba&fontSize=30" />
+
+  
 
 
 <h3>🚀 Scrimba — Interactive Learning Done Right</h3>
