@@ -1,3 +1,56 @@
+<!-- ================= LEARNING JOURNEY ================= -->
+<div align="center">
+
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=130&text=Scrimba&fontSize=30" />
+
+
+<h3>🚀 Scrimba — Interactive Learning Done Right</h3>
+
+<p>
+I’m currently learning on <a href="https://scrimba.com/?via=u4351f40"><b>Scrimba</b></a>, and I genuinely love the experience.
+</p>
+
+<p>
+Instead of passively watching videos, Scrimba lets you
+<b>pause, edit, and run code directly inside the lesson</b> —  
+video + editor + execution, all in one place.
+</p>
+
+<p>
+Perfect for building <b>real muscle memory</b> and learning by doing.
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Interactive%20Coding-%E2%9C%85-22C55E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Learn%20by%20Doing-%E2%9C%85-3B82F6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/No%20Setup-%E2%9C%85-8B5CF6?style=for-the-badge" />
+</p>
+
+<p>
+If you believe <b>learning by doing &gt; passive watching</b>,
+Scrimba is absolutely worth checking out .
+</p>
+
+<p>
+If you ever plan to check out Scrimba in the future,
+<b>make sure to use this link</b> — it gives you
+<b>20% off your subscription via my referral</b>.
+</p>
+
+<p>
+  <a href="https://scrimba.com/?via=u4351f40">
+    <img src="https://img.shields.io/badge/Get%2020%25%20OFF%20Scrimba-Use%20This%20Link-2EA44F?style=for-the-badge&logo=code&logoColor=white" />
+  </a>
+</p>
+
+<p><i>🔗 Bookmark this link to get the discount anytime.</i></p>
+
+
+
+</div>
+
+---
+
 <!-- ================= OPTION 1: Typing SVG (RECOMMENDED) ================= -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=750&lines=Udayagiri+Saibabu;Software+Engineer;GSoC+2025+Contributor+%7C+SymPy;Open+Source+%7C+Algorithms+%7C+Python" />
@@ -170,3 +223,38 @@ I build strong fundamentals in data structures and algorithms, apply them to sym
 
 ---
 
+---
+
+<h3 align="left">🎓 Why I Recommend Scrimba</h3>
+
+<p align="left">
+If you're tired of pausing YouTube videos, switching tabs, and struggling to stay consistent — <b>Scrimba</b> is a game changer.
+</p>
+
+<p align="left">
+<strong>Scrimba is an interactive learning platform</strong> where the video itself is a live coding environment.
+You can pause, edit the instructor’s code, experiment instantly, and truly <b>learn by doing</b>.
+</p>
+
+<ul>
+  <li>🧑‍💻 Interactive video + real code editor</li>
+  <li>🧠 Builds strong muscle memory</li>
+  <li>⚡ No setup, no distractions</li>
+  <li>📈 Perfect for developers who want real skills, not just certificates</li>
+</ul>
+
+<p align="left">
+As someone deeply focused on <b>algorithms, problem-solving, and real-world software engineering</b>,
+I genuinely enjoy learning on Scrimba. It feels less like a course and more like having a mentor sitting next to you.
+</p>
+
+<div align="center">
+  <a href="https://scrimba.com/?via=u4351f40">
+    <img src="https://img.shields.io/badge/Get%2020%25%20OFF%20Scrimba-Start%20Learning%20Now-2EA44F?style=for-the-badge&logo=code&logoColor=white" />
+  </a>
+</div>
+
+<p align="center">
+<b>👉 Use my link to get 20% off your Scrimba subscription.</b><br/>
+<a href="https://scrimba.com/?via=u4351f40"><b>Start learning the interactive way on Scrimba.</b></a>
+</p>
