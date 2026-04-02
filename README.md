@@ -1,53 +1,6 @@
 <!-- ================= LEARNING JOURNEY ================= -->
 <div align="center">
 
- <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=130&text=Interactive%20Learning%20%7C%20Scrimba&fontSize=30" />
-
-  
-
-
-<h3>🚀 Scrimba — Interactive Learning Done Right</h3>
-
-<p>
-I’m currently learning on <a href="https://scrimba.com/?via=u4351f40"><b>Scrimba</b></a>, and I genuinely love the experience.
-</p>
-
-<p>
-Instead of passively watching videos, Scrimba lets you
-<b>pause, edit, and run code directly inside the lesson</b> —  
-video + editor + execution, all in one place.
-</p>
-
-<p>
-Perfect for building <b>real muscle memory</b> and learning by doing.
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Interactive%20Coding-%E2%9C%85-22C55E?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Learn%20by%20Doing-%E2%9C%85-3B82F6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/No%20Setup-%E2%9C%85-8B5CF6?style=for-the-badge" />
-</p>
-
-<p>
-If you believe <b>learning by doing &gt; passive watching</b>,
-Scrimba is absolutely worth checking out .
-</p>
-
-<p>
-If you ever plan to check out Scrimba in the future,
-<b>make sure to use this link</b> — it gives you
-<b>20% off your subscription via my referral</b>.
-</p>
-
-<p>
-  <a href="https://scrimba.com/?via=u4351f40">
-    <img src="https://img.shields.io/badge/Get%2020%25%20OFF%20Scrimba-Use%20This%20Link-2EA44F?style=for-the-badge&logo=code&logoColor=white" />
-  </a>
-</p>
-
-<p><i>🔗 Bookmark this link to get the discount anytime.</i></p>
-
-
 
 </div>
 
